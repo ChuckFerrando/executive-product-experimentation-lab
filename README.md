@@ -84,15 +84,6 @@ See:
 
 ---
 
-## Related Repositories
-
-- Product Leadership Operating System (PLOS) → system-level architecture  
-- Executive Product Mental Models → decision frameworks applied in experiments  
-- Executive Product AI Fluency → tools and patterns used in builds  
-- Executive Product Signal Center → ideas and trends that inspire experiments  
-
----
-
 ## Guiding Principle
 
 Execution is the ultimate proof of understanding.
@@ -124,5 +115,4 @@ Each repository is intended to stand alone while also contributing to a coherent
 - [Product Leadership Operating System (PLOS)](https://github.com/ChuckFerrando/product-leadership-operating-system) → system-level architecture  
 - [Executive Product Mental Models](https://github.com/ChuckFerrando/executive-product-mental-models) → decision frameworks  
 - [Executive Product AI Fluency](https://github.com/ChuckFerrando/executive-product-ai-fluency) → tools and capabilities  
-- [Executive Product Experimentation Lab](https://github.com/ChuckFerrando/executive-product-experimentation-lab) → applied builds and prototypes  
 - [Executive Product Signal Center](https://github.com/ChuckFerrando/executive-product-signal-center) → curated market intelligence  
